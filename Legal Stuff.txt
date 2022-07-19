@@ -1,0 +1,13 @@
+U.S.S Tuscon model is a derivate of 
+ - "60' Articulated Fishbowl Bus" by Stretch57 
+    - https://www.thingiverse.com/thing:4146323
+    licensed under CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+ - "Star Trek - The Original Series Oberth Class Science Vessel" by nd4spd1919
+    - https://www.thingiverse.com/thing:1535629
+    licensed under CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+
+Art background "NASA’s Webb Reveals Cosmic Cliffs, Glittering Landscape of Star Birth" by NASA,
+https://www.flickr.com/photos/nasawebbtelescope/52211883534/in/album-72177720300469752/
+licensed under CC BY 2.0 https://creativecommons.org/licenses/by/2.0/
+
+Crew models created by MWGNZ
